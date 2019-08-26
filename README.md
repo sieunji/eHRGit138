@@ -19,3 +19,10 @@
 
 ![혼종](https://github.com/sieunji/eHRGit138/blob/master/%EC%BD%94%EC%95%8C%EB%9D%BC%EB%8B%AD.jpg)
 ![죠르디](http://t1.daumcdn.net/friends/prod/editor/a8ab2d26-3ac0-45c5-ad62-36d70804dfa0.jpg)
+
+코알라닭            |  죠르디
+--------------------|-------------
+코알라가 모이먹음    |  눈물이 많음
+
+|왼쪽   | 가운데      |오른쪽|
+|:-----| :--------: |-----:|
