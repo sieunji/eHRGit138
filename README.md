@@ -18,3 +18,4 @@
 3. 아이템3
 
 ![혼종](https://github.com/sieunji/eHRGit138/blob/master/%EC%BD%94%EC%95%8C%EB%9D%BC%EB%8B%AD.jpg)
+![죠르디](http://t1.daumcdn.net/friends/prod/editor/a8ab2d26-3ac0-45c5-ad62-36d70804dfa0.jpg)
